@@ -9,4 +9,3 @@
 - 🔦 My favourite ML library is PyTorch
 - 💬 I speak Italian and English
 - 📫 Find me on [Twitter](https://twitter.com/andreaazzini)
-- ⚡ Fun fact: I host an extremely stupid podcast about Italian football
